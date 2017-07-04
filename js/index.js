@@ -1,1 +1,1 @@
-alert('hi')
+const styles = require('../css/style.scss');
